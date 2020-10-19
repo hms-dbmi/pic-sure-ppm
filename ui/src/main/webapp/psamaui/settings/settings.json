@@ -1,7 +1,8 @@
 {
-  "helpLink": "mailto:avillach_lab_developers@googlegroups.com",
+  "servicesPath" : "/psama",
+  "basePath" : "/psama",
+  "uiPath": "",
+  "helpLink": "",
   "customizeAuth0Login": false,
-  "basePath": "/psama",
-  "client_id": "thisisconfiguredduringdeployment",
-  "auth0domain" : "hms-dbmi"
+  "client_id": "ThisIsDefinedAheadOfTimeBySomeoneElse"
 }
