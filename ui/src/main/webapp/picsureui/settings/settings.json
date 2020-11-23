@@ -1,13 +1,13 @@
 
 {
   "resources":[
-		{
-			"id" : "UDN",
-			"name" : "UDN",
-			"basePath" : "/picsure",
-			"findPath" : "/PIC-SURE/search"
-		}
-		],
+    {
+			"id" : "PPM",
+			"name" : "PPM",
+      "basePath" : "/picsure",
+      "findPath" : "/PIC-SURE/search"
+    }
+  ],
   "helpLink": "about:blank",
   "advancedSearchLink": "",
   "picSureResourceId":"02e23f52-f354-4e8b-992c-d37c8b9ba140",
