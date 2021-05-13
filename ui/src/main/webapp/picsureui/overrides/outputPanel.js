@@ -37,6 +37,15 @@ define(["handlebars", "backbone"], function(HBS, BB){
 		/*
 		 * If you want to show your customized error message, please override this
 		 */
-		outputErrorMessage: undefined
+		outputErrorMessage: undefined,
+		
+		/*
+		 * The new hook for overriding all custom query logic.  takes 4 parameters:
+		 * outputPanel - default outputPanel object for access to model and other objects, 
+		 * incomingQuery - query object to be executed, 
+		 * dataCallback - default data callback function, 
+		 * errorCallback - default error callback function
+		 */
+		runQuery: undefined
 	};
 });

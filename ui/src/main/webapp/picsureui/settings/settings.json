@@ -1,8 +1,8 @@
 {
   "resources": [
     {
-            "id" : "gic",
-            "name" : "gic",
+            "id" : "pic-sure",
+            "name" : "PIC-SURE",
             "basePath" : "/picsure",
             "findPath" : "/PIC-SURE/search"
         }
@@ -15,5 +15,7 @@
 			"ACT" : "ACT"
 	},
   "categorySearchResultList" : [
-             ]
+             ],
+  "queryExportType":"EXPORT_DISABLED",
+  "queryButtonLabel":"Prepare Data Export"
 }
