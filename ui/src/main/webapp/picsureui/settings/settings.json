@@ -16,6 +16,6 @@
 	},
   "categorySearchResultList" : [
              ],
-  "queryExportType":"EXPORT_DISABLED",
-  "queryButtonLabel":"Prepare Data Export"
+  "queryExportType":"EXPORT_IMMEDIATE",
+  "queryButtonLabel":"Export Data"
 }
