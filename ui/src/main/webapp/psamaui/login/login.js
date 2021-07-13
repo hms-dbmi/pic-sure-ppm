@@ -106,6 +106,13 @@ define(['common/session', 'picSure/settings', 'common/searchParser', 'jquery', '
                                     params: {
                                         scope: 'openid email' // Learn about scopes: https://auth0.com/docs/scopes
                                     }
+                                },
+                                closable: false,
+                                languageDictionary: {
+                                    title: 'PPM NEER PIC-SURE'
+                                },
+                                theme: {
+                                    logo: 'https://p2m2.dbmi.hms.harvard.edu/static/favicon/android-icon-192x192.png'
                                 }
                             }
                         );
